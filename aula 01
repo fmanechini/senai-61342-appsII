@@ -15,3 +15,6 @@ if($_POST['usuario'] == "user" && $_POST['senha'] == "123456"){
 </form>
 
 
+<h1>Exercício</h1>
+
+Fazer calculadora usando Get ou Post
